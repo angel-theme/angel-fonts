@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Hacen LP bold";
+  src: url("https://github.com/angel-theme/angel-fonts/raw/refs/heads/main/Fonts/Hacen-LP-Bold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hacen LP";
+  src: url("https://github.com/angel-theme/angel-fonts/raw/refs/heads/main/Fonts/Hacen-LP.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
