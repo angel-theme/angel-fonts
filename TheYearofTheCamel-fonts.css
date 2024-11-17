@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Camel-Bold";
+  src: url("https://github.com/angel-theme/angel-fonts/raw/refs/heads/main/TheYearofTheCamel-Bold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Camel-Regular";
+  src: url("https://github.com/angel-theme/angel-fonts/raw/refs/heads/main/TheYearofTheCamel-Regular.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
